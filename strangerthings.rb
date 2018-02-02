@@ -65,6 +65,8 @@ live_loop :main do
 end
 
 live_loop :drums do
+  
   sample :drum_bass_soft, amp: 0.5
   sleep 1
+  
 end
