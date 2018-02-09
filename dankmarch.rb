@@ -1,4 +1,9 @@
-# Song Name
+# Song Name: Imperial March by John Williams
+
+# Sheet Music: https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0133739
+
+# BPM Used: https://songbpm.com/imperial-march?q=imperial%20march
+
 
 # X is the variable used to set the synthesizer to be used
 # The X vairable is currently set to the "Subpulse" synthesizer
